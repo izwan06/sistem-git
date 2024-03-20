@@ -13,6 +13,8 @@
             $query-mysqli_query($connect,"SELECT id,nama_pelajar,no_kp FROM data");
             num_result=mysqli_num_rows($query1);
             ?>
+oi
+            
         </center>
     </body>
 </html>
